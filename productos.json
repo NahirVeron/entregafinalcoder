@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Arnes Mujer Maravilla",
+    "precio": 10000,
+    "imagen": "./imagenes/arnesdetelamujermaravillaperrosalchicha.jpeg"
+  },
+  {
+    "id": 2,
+    "nombre": "Taza perro salchicha",
+    "precio": 6000,
+    "imagen": "./imagenes/tazaperrosalchicha.jpeg"
+  },
+  {
+    "id": 3,
+    "nombre": "Calcomania perro salchicha",
+    "precio": 5000,
+    "imagen": "./imagenes/Calcomaniaperrosalchicha.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Llaveros perro salchicha",
+    "precio": 20000,
+    "imagen": "./imagenes/llaverosperrosalchicha.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "Mochilas",
+    "precio": 20000,
+    "imagen": "./imagenes/mochilasparaperrossalchicha.webp"
+  }
+]
+
+  
